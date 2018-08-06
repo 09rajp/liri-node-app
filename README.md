@@ -36,5 +36,5 @@ Liri-node-app is a node.js application that has functinalities using **Twitter, 
  ### Logs
 The informations of all functionalities of **node-liri-app** are loaded in the terminal are also stored in the **`log.txt`** file and could be reviewed at any time.
 
- ### Application repository: https://github.com/TAYLOR-YAO/liri-node-app/settings
+ ### Application repository: https://github.com/09rajp/liri-node-app
   
